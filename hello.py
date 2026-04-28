@@ -1,0 +1,1 @@
+print("‚±‚ñ‚É‚¿‚ÍPython") 
